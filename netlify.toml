@@ -9,4 +9,4 @@ ID = "5ddd50db-9ec9-4432-9fbe-6bde16af484e"
   # This is the directory that you are publishing from (relative to root of your repo)
   publish = "port/build/"
   # This will be your default build command
-  command = "yarn build"
+  command = "echo 'default context'"
