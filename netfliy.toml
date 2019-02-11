@@ -1,5 +1,5 @@
 [Settings]
-ID = "5ddd50db-9ec9-4432-9fbe-6bde16af484e" <--- you'll get this id from netlify
+ID = "5ddd50db-9ec9-4432-9fbe-6bde16af484e"
 
 # Settings in the [build] context are global and are applied to all contexts unless otherwise overridden by more specific contexts.  
 
@@ -11,4 +11,3 @@ ID = "5ddd50db-9ec9-4432-9fbe-6bde16af484e" <--- you'll get this id from netlify
   publish = "portfolio/build/"
   # This will be your default build command
   command = "yarn build"
-  
