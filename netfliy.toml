@@ -8,6 +8,6 @@ ID = "5ddd50db-9ec9-4432-9fbe-6bde16af484e"
   base    = "port"
   # NOTE: This is where we will look for package.json/.nvmrc/etc, not root.
   # This is the directory that you are publishing from (relative to root of your repo)
-  publish = "port/build"
+  publish = "port/build/"
   # This will be your default build command
   command = "yarn build"
